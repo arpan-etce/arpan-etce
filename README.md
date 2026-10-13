@@ -1,6 +1,6 @@
 # Hi, I'm Arpan👋
 
-### E&TC Engineering Student | RTL & Digital Design | Verilog | Computer Architecture
+### E&TC Engineering Student 
 
 I am a final-year B.E. Electronics & Tele-Communication Engineering student at **Jadavpur University**, interested in understanding how CPUs and processors are designed and how complex computing systems are built from fundamental digital circuits.
 
