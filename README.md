@@ -1,4 +1,4 @@
-# Hi, I'm Arpan Naskar 👋
+# Hi, I'm Arpan👋
 
 ### E&TC Engineering Student | RTL & Digital Design | Verilog | Computer Architecture
 
